@@ -1,6 +1,7 @@
-![alt_text](img/statutcover.jpg)
+![cover](img/statutcover.jpg)
 
-[TOC]
+* unordered list
+{:toc}
 
 ## I. Загальні положення {#i-загальні-положення}
 
