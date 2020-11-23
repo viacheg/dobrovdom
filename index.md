@@ -1,6 +1,6 @@
 # ОСМД "ДОБРОВДОМ"
 
-[Устав](statut.html)
+[Устав](statut.md)
 
 ![Смета 2021](img/estimate2021.PNG)
 ![Смета 2020](img/estimate2020.PNG)
