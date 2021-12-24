@@ -6,7 +6,7 @@
 [Программа реформирования ЖКХ](https://mkrada.gov.ua/documents/33285.html)
 
 ![Смета 2022](budget1.html)
-![Смета 2021](budget0.html)
+![Смета 2021](budget.html)
 
 ## Статьи и ссылки
 
