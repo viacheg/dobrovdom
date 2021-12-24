@@ -5,8 +5,8 @@
 [Устав ОСМД](statut.html),
 [Программа реформирования ЖКХ](https://mkrada.gov.ua/documents/33285.html)
 
-![Смета 2021](img/estimate2021.PNG)
-![Смета 2020](img/estimate2020.PNG)
+![Смета 2022](budget1.html)
+![Смета 2021](budget0.html)
 
 ## Статьи и ссылки
 
